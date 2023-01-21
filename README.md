@@ -1,2 +1,2 @@
-# Sourcemod - Redirect API
-A Sourcemod project that allows an easy API to allow for redirects, specifically for TF2. (Source Engine)
+# TF2-ShadowFortress
+A gamemode which revolves around classes similar to the ShadowRun game.
