@@ -42,10 +42,10 @@ int g_iGlowDispenser[MAXPLAYERS + 1] = {INVALID_ENT_REFERENCE, ...};
 public Plugin myinfo =
 {
 	name = "[TF2] Gamemode: Shadowrun Fortress",
-	author = "Keith Warren (Shaders Allen)",
+	author = "Drixevel",
 	description = PLUGIN_DESCRIPTION,
 	version = PLUGIN_VERSION,
-	url = "http://www.shadersallen.com/"
+	url = "https://drixevel.dev/"
 };
 
 public void OnPluginStart()
